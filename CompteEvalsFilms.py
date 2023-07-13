@@ -10,9 +10,11 @@ class CompteEvals(MRJob):
 
     def mapper_get_evals(self, _, line):
         colonnes = line.split("\t")
-        evals = colonnes[1]
-        if evals=="419":
-            yield evals, 1
+        evals = colonnes[2]
+        if evals=="5":
+            films = colonnes[1]
+            if films=="900":
+                yield films, 1
 
     def reducer_compte_evals(self, eval, uns):
         yield eval, sum(uns)
