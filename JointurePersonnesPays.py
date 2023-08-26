@@ -1,13 +1,13 @@
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 
-class JointurePaysPersonnes(MRJob):
+class JointurePersonnesPays(MRJob):
     def steps(self):
         return [
-            MRStep(mapper=self.mapper_get_pays,
-                   reducer=self.reducer_compte_pays)       ]
+            MRStep(mapper=self.mapper_get_personnespays,
+                   reducer=self.reducer_jointure)       ]
 
-    def mapper_get_pays(self, _, line):
+    def mapper_get_personnespays(self, _, line):
         colonnes = line.split("|")
         
         # Check if record has 2 columns (country data)
@@ -21,7 +21,7 @@ class JointurePaysPersonnes(MRJob):
             yield pays_code, ('person', prenom, nom)
                      
 
-    def reducer_compte_pays(self, pays_code, values):
+    def reducer_jointure(self, pays_code, values):
         country_name = None
         persons = []
 
@@ -36,4 +36,4 @@ class JointurePaysPersonnes(MRJob):
             yield (prenom, nom, country_name), pays_code
 
 if __name__ == '__main__':
-    JointurePaysPersonnes.run()
+    JointurePersonnesPays.run()

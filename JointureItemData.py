@@ -1,4 +1,4 @@
-""" Programme pour compter le nombre d'évaluation 5* par film et pour trier les films par nombre d'évaluations 5*"""
+""" Programme pour fait la jointure """
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 
