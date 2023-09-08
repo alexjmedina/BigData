@@ -11,10 +11,10 @@ class CompteNombresPairs(MRJob):
     def mapper_get_nombres_pairs(self, _, line):
         nombres = int(line)
         if nombres % 2 == 0:
-            yield("Sum of even numbers", nombres)
+            yield nombres, 1
 
-    def reducer_compte_nombres_pairs(self, key, values):
-        yield key, sum(values)
+    def reducer_compte_nombres_pairs(self, nombres, npairs):
+        yield nombres, sum(npairs)
 
 if __name__ == '__main__':
     CompteNombresPairs.run()

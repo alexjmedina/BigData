@@ -1,4 +1,4 @@
-""" Evaluation2 - Exercice 3 """
+""" Evaluation2 - Exercice 1 """
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 
@@ -11,7 +11,7 @@ class CompteNombresPairs(MRJob):
     def mapper_get_nombres_pairs(self, _, line):
         nombres = int(line)
         if nombres % 2 == 0:
-            yield("Sum of even numbers", nombres)
+            yield("Even numbers", 1)
 
     def reducer_compte_nombres_pairs(self, key, values):
         yield key, sum(values)
