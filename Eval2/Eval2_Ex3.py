@@ -2,7 +2,7 @@
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 
-class CompteNombresPairs(MRJob):
+class SommeNombresPairs(MRJob):
     def steps(self):
         return [
             MRStep(mapper=self.mapper_get_nombres_pairs,
@@ -17,4 +17,4 @@ class CompteNombresPairs(MRJob):
         yield key, sum(values)
 
 if __name__ == '__main__':
-    CompteNombresPairs.run()
+    SommeNombresPairs.run()
