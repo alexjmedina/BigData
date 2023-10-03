@@ -22,3 +22,5 @@ df = df.round(2)
 
 # Save the DataFrame as a CSV file
 df.to_csv('NASDAQ_data.csv', index=False)
+
+# Display df
