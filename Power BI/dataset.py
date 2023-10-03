@@ -17,5 +17,8 @@ df['cost_of_sales'] = df['cost_of_sales'] + noise
 df['selling_price'] = data['Close']
 df['net_profit'] = df['selling_price'] - df['cost_of_sales']
 
+# Round the values to two decimal places
+df = df.round(2)
+
 # Save the DataFrame as a CSV file
 df.to_csv('NASDAQ_data.csv', index=False)
