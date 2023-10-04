@@ -29,9 +29,14 @@ df['project_name'] = np.random.choice(project_names, len(df))
 df['project_category'] = df['project_name'].map(dict(zip(project_names, project_categories)))
 
 # Adjust the cost of sales based on project name
-cost_adjustments = {'Proj9': 1.5, 'Proj5': 1.3}
+cost_adjustments = {'Proj9': 2.5, 'Proj5': 1.8}
 for project, adjustment in cost_adjustments.items():
     df.loc[df['project_name'] == project, 'cost_of_sales'] *= adjustment
+
+# Adjust the selling price based on project name
+selling_price_adjustments = {'Proj9': 1.7, 'Proj5': 1.2}
+for project, adjustment in selling_price_adjustments.items():
+    df.loc[df['project_name'] == project, 'selling_price'] *= adjustment
 
 # Save the DataFrame as a CSV file
 df.to_csv('NASDAQ_data.csv', index=False)
