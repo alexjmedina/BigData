@@ -20,13 +20,15 @@ df['net_profit'] = df['selling_price'] - df['cost_of_sales']
 # Round the values to two decimal places
 df = df.round(2)
 
-# Define project names and categories
+# Define project names, categories and project status
 project_names = ['Proj1', 'Proj2', 'Proj3','Proj4', 'Proj5', 'Proj6', 'Proj7','Proj8', 'Proj9']
 project_categories = ['Category1', 'Category1', 'Category1','Category2', 'Category2', 'Category2', 'Category3','Category3', 'Category3']
+project_status = ['In - Progress', 'In - Progress', 'In - Progress','In - Progress', 'On - hold', 'On - hold', 'On - hold','Completed', 'Completed']
 
-# Assign project names and categories to the DataFrame
+# Assign project names, categories and project status to the DataFrame
 df['project_name'] = np.random.choice(project_names, len(df))
 df['project_category'] = df['project_name'].map(dict(zip(project_names, project_categories)))
+df['project_status'] = df['project_name'].map(dict(zip(project_names, project_status)))
 
 # Adjust the cost of sales based on project name
 cost_adjustments = {'Proj9': 2.5, 'Proj5': 1.8}
