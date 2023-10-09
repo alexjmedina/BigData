@@ -8,11 +8,11 @@ class NettoyerLesDonnees(MRJob):
 
     def steps(self):
         return [
-            MRStep(mapper=self.mapper_get_mots,
+            MRStep(mapper=self.mapper_get_clean_data,
                    reducer=self.reducer_get_results)
         ]
 
-    def mapper_get_mots(self, _, line):
+    def mapper_get_clean_data(self, _, line):
         colonnes = line.split(' - ')
         livre_title = colonnes[0]
         auteur = colonnes[1].lower()
