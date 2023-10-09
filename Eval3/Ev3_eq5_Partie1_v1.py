@@ -11,14 +11,14 @@ class NettoyerLesDonnees(MRJob):
     def mapper_get_mots(self, _, line):
         colonnes = line.split(' - ')
         livre_title = colonnes[0]
-        auteur = colonnes[1]
-        langue_original = colonnes[2]
-        title_original = colonnes[3]
-        if auteur != "inconnu" or langue_original != "inconnu" or title_original !="inconnu":
-            if langue_original.strip().lower() == "français":
-                yield 1, [livre_title, auteur, langue_original, title_original]
+        auteur = colonnes[1].lower()
+        langue_original = colonnes[2].lower()
+        title_original = colonnes[3].lower()
+        if "inconnu" not in auteur and "inconnu" not in langue_original and "inconnu" not in title_original:
+            if "français" in langue_original:
+                yield 1, [livre_title, auteur]
             else:
-                yield 1, [livre_title]
+                yield 1, [livre_title, auteur, langue_original, title_original]
 
     def reducer_get_results(self, key, books):
         for book in books:
