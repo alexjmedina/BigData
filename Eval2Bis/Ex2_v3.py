@@ -23,7 +23,7 @@ class AuteursPlusQuUnLivre(MRJob):
 
     def mapper_sort_by_id(self, auteur, livres):
         for livre in livres:
-            yield int(auteur), livre
+            yield auteur, livre
 
     def reducer_output_books(self, auteur, livres):
         yield auteur, list(livres)
