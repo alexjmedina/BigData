@@ -1,0 +1,200 @@
+1,Le Secret du Vieux Moulin,1
+2,Le Trésor de l'Île Mystérieuse,2
+3,Le Mystère de la Chambre Jaune,3
+4,L'Étranger,4
+5,1984,5
+6,Le Petit Prince,6
+7,Le Seigneur des Anneaux,7
+8,Les Misérables,8
+9,Pride and Prejudice,9
+10,To Kill a Mockingbird,10
+11,Harry Potter à l'école des sorciers,330
+12,Le Hobbit,12
+13,Le Guépard,13
+14,L'Écume des jours,14
+15,La Peste,15
+16,L'Assommoir,16
+17,Le Comte de Monte-Cristo,17
+18,Cent ans de solitude,18
+19,La Ferme des animaux,19
+20,Le Vieil Homme et la Mer,20
+21,Les Aventures de Sherlock Holmes,21
+22,Le Parfum,22
+23,Le Rouge et le Noir,23
+24,Don Quichotte,24
+25,Les Trois Mousquetaires,25
+26,L'Éducation sentimentale,26
+27,L'Odyssée,27
+28,L'Iliade,28
+29,Les Fourmis,29
+30,Le Cycle de Dune,30
+31,La Guerre des mondes,31
+32,Fondation,32
+33,Le Cycle de la Terre,33
+34,Le Cycle de Mars,34
+35,La Nuit des temps,35
+36,Le Cycle de l'Élévation,36
+37,Le Cycle de l'Union,37
+38,Le Cycle des Princes d'Ambre,32
+39,Les Chroniques de Krondor,39
+40,Le Cycle de Drenaï,40
+41,La Roue du temps,41
+42,Le Trône de fer,44
+43,L'Assassin royal,44
+44,La Quête d'Ewilan,44
+45,Le Cycle de Pendragon,45
+46,Les Annales du Disque-Monde,46
+47,Le Cycle des Dieux,47
+48,La Trilogie de Bartiméus,48
+49,La Trilogie du Magicien noir,49
+50,La Trilogie de l'Empire,50
+51,Le Cycle de l'Épée de Vérité,51
+52,Le Cycle de Déméter,52
+53,La Trilogie de la Nuit,53
+54,La Trilogie de la Lune,54
+55,Le Cycle du Dieu déchu,55
+56,La Trilogie des Joyaux,56
+57,La Trilogie du Magicien,57
+58,La Trilogie des Joyaux noirs,58
+59,La Trilogie de la Belgariade,59
+60,Le Cycle de Pern,60
+61,La Trilogie du Dernier Souffle,61
+62,La Trilogie de la Guerre des Serpents,62
+63,Le Cycle de la Porte des Étoiles,63
+64,La Trilogie des Dieux,64
+65,La Trilogie de l'Assassin royal,65
+66,Le Cycle de Shannara,66
+67,La Trilogie de la Nuit des temps,6
+68,La Trilogie du Codex Aléra,8
+69,La Trilogie du Secret de Ji,9
+70,La Trilogie de la Dague noire,70
+71,Le Cycle des Épées,71
+72,Le Cycle de l'Épée de Vérité,72
+73,Le Cycle de Drenaï,73
+74,La Trilogie de l'Empire,74
+75,La Trilogie des Elfes,7
+76,Le Cycle de l'Âge de la Mort,7
+77,Le Cycle des Princes d'Ambre,7
+78,La Trilogie de l'Éveil,78
+79,La Trilogie de la Terre mourante,79
+80,La Trilogie des Chroniques des Dieux,80
+81,Le Cycle des Immortels,81
+82,Le Cycle de la Terre mourante,82
+83,La Trilogie du Dernier Souffle,83
+84,La Trilogie de la Belgariade,8
+85,Le Cycle de Pern,85
+86,Le Cycle du Dieu déchu,8
+87,La Trilogie des Joyaux,8
+88,La Trilogie du Magicien,88
+89,La Trilogie de la Nuit,89
+90,La Trilogie de la Lune,9
+91,La Trilogie des Joyaux noirs,91
+92,La Trilogie des Chroniques des Dieux,92
+9x3,Le Cycle des Immortels,9
+94,La Trilogie du Codex Aléra,9
+95,La Trilogie du Secret de Ji,95
+96,La Trilogie de la Dague noire,9
+97,Le Cycle des Épées,97
+98,Le Cycle de l'Âge de la Mort,8
+99,Le Cycle de Shannara,9
+100,La Trilogie de la Nuit des temps,10
+101,La Trilogie de l'Assassin royal,1
+102,Le Cycle de Dune,20
+103,La Guerre des mondes,33
+104,Fondation,40
+105,Le Cycle de la Terre,5
+106,Le Cycle de Mars,60
+107,La Nuit des temps,7
+108,Le Cycle de l'Élévation,88
+109,Le Cycle de l'Union,98
+110,Le Cycle des Princes d'Ambre,10
+111,Les Chroniques de Krondor,11
+112,Le Cycle de Pendragon,18
+113,Les Annales du Disque-Monde,13
+114,Le Cycle des Dieux,18
+115,La Trilogie de Bartiméus,15
+116,La Trilogie du Magicien noir,16
+117,La Trilogie de l'Empire,18
+118,Le Cycle de l'Épée de Vérité,18
+119,Le Cycle de Déméter,18
+120,La Trilogie de la Nuit,20
+121,La Trilogie de la Lune,21
+122,Le Cycle du Dieu déchu,2
+123,La Trilogie des Joyaux,2
+124,La Trilogie du Magicien,2
+125,La Trilogie des Joyaux noirs,25
+126,La Trilogie de la Belgariade,25
+127,Le Cycle de Pern,27
+128,La Trilogie du Dernier Souffle,28
+129,La Trilogie de la Guerre des Serpents,28
+130,Le Cycle de la Porte des Étoiles,30
+131,La Trilogie des Dieux,31
+132,La Trilogie de l'Assassin royal,32
+133,Le Cycle de Shannara,33
+134,La Trilogie de la Nuit des temps,34
+135,La Trilogie du Codex Aléra,35
+136,La Trilogie du Secret de Ji,32
+137,La Trilogie de la Dague noire,32
+138,Le Cycle des Épées,32
+139,Le Cycle de l'Épée de Vérité,39
+140,Le Cycle de Drenaï,40
+141,La Trilogie de l'Empire,44
+142,La Trilogie des Elfes,42
+143,Le Cycle de l'Âge de la Mort,44
+144,Le Cycle des Princes d'Ambre,44
+145,La Trilogie de l'Éveil,45
+146,La Trilogie de la Terre mourante,46
+147,La Trilogie des Chroniques des Dieux,47
+148,Le Cycle des Immortels,44
+149,Le Cycle de la Terre mourante,44
+150,La Trilogie du Dernier Souffle,50
+151,La Trilogie de la Belgariade,51
+152,Le Cycle de Pern,52
+153,Le Cycle du Dieu déchu,53
+154,La Trilogie des Joyaux,50
+155,La Trilogie du Magicien,50
+156,La Trilogie de la Nuit,56
+157,La Trilogie de la Lune,50
+158,La Trilogie des Joyaux noirs,58
+159,La Trilogie des Chroniques des Dieux,59
+160,Le Cycle des Immortels,60
+161,La Trilogie du Codex Aléra,65
+162,La Trilogie du Secret de Ji,62
+163,La Trilogie de la Dague noire,65
+164,Le Cycle des Épées,64
+165,Le Cycle de l'Âge de la Mort,65
+166,Le Cycle de Shannara,66
+167,La Trilogie de la Nuit des temps,65
+168,La Trilogie de l'Assassin royal,68
+169,Le Cycle de Dune,69
+170,La Guerre des mondes,70
+171,Fondation,79
+172,Le Cycle de la Terre,72
+173,Le Cycle de Mars,79
+174,La Nuit des temps,74
+175,Le Cycle de l'Élévation,75
+176,Le Cycle de l'Union,76
+177,Le Cycle des Princes d'Ambre,79
+178,Les Chroniques de Krondor,79
+179,Le Cycle de Pendragon,79
+180,Les Annales du Disque-Monde,80
+181,Le Cycle des Dieux,81
+182,La Trilogie de Bartiméus,82
+183,La Trilogie du Magicien noir,83
+184,La Trilogie de l'Empire,84
+185,Le Cycle de l'Épée de Vérité,86
+186,Le Cycle de Déméter,86
+187,La Trilogie de la Nuit,86
+188,La Trilogie de la Lune,8
+189,Le Cycle du Dieu déchu,8
+190,La Trilogie des Joyaux,9
+191,La Trilogie du Magicien,91
+192,La Trilogie des Joyaux noirs,2
+193,La Trilogie de la Belgariade,9
+194,Le Cycle de Pern,94
+195,La Trilogie du Dernier Souffle,95
+196,La Trilogie de la Guerre des Serpents,6
+197,Le Cycle de la Porte des Étoiles,6
+198,La Trilogie des Dieux,4
+199,La Trilogie de l'Assassin royal,3
+200,Le Cycle de Shannara,1
