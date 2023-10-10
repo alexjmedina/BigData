@@ -11,11 +11,9 @@ class AuteursPlusQuUnLivre(MRJob):
 
     def mapper_get_auteurs(self, _, line):
         data = line.split(',')
-        if len(data) > 2:  # to ensure there are at least 3 fields
-            numero = data[0]
-            livre = data[1]
-            auteur = data[2]
-            yield auteur, (numero, livre)
+        livre = data[1]
+        auteur = data[2]
+        yield auteur, livre
         
     def reducer_get_livres(self, auteur, livres):
         livres_list = list(livres)
