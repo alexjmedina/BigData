@@ -14,8 +14,8 @@ class CompteNombresMultiples(MRJob):
         if nombres % 3 == 0 and nombres % 5 == 0:
             yield(None, nombres)
 
-    def reducer_compte_nombres_multiples(self, _, values):
-        multiples = list(values)
+    def reducer_compte_nombres_multiples(self, _, nombres):
+        multiples = list(nombres)
         yield "Nombres multiples de 3 et 5:", multiples
         yield "Somme total des nombres multiples de 3 et 5:", sum(multiples)
         yield "Nombre de nombres multiples de 3 et 5:", len(multiples)
