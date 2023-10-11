@@ -21,7 +21,7 @@ class AuteursPlusQuUnLivre(MRJob):
             yield auteur, livres_list
 
     def reducer_output_books(self, auteur, livres):
-        yield auteur, list(livres)
+        yield auteur.lstrip('0'), list(livres)
 
 if __name__ == '__main__':
     AuteursPlusQuUnLivre.run()
