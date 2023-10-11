@@ -5,8 +5,8 @@ class AuteursPlusQuUnLivre(MRJob):
     def steps(self):
         return [
             MRStep(mapper=self.mapper_get_auteurs,
-                   reducer=self.reducer_get_livres),
-            MRStep(reducer=self.reducer_output_books)
+                   reducer=self.reducer_get_livres)#,
+            #MRStep(reducer=self.reducer_output_books)
         ]
 
     def mapper_get_auteurs(self, _, line):
@@ -18,10 +18,10 @@ class AuteursPlusQuUnLivre(MRJob):
     def reducer_get_livres(self, auteur, livres):
         livres_list = list(livres)
         if len(livres_list) > 1:
-            yield auteur, livres_list
+            yield auteur.lstrip('0'), livres_list
 
-    def reducer_output_books(self, auteur, livres):
-        yield auteur.lstrip('0'), list(livres)
+    #def reducer_output_books(self, auteur, livres):
+    #    yield auteur.lstrip('0'), list(livres)
 
 if __name__ == '__main__':
     AuteursPlusQuUnLivre.run()

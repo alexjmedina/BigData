@@ -1,0 +1,100 @@
+1,Le Secret du Vieux Moulin,,,
+2,Le Mystère de la Chambre Jaune,gaston leroux,,titre original : le mystère de la chambre jaune
+3,L'Étranger,albert camus,,titre original : l'étranger
+4,1984,george orwell,langue originale : anglais,titre original : 1984
+5,Le Petit Prince,antoine de saint-exupéry,,titre original : le petit prince
+6,Le Seigneur des Anneaux,j.r.r. tolkien,langue originale : anglais,titre original : the lord of the rings
+7,Les Misérables,victor hugo,,titre original : les misérables
+8,Pride and Prejudice,jane austen,langue originale : anglais,titre original : pride and prejudice
+9,To Kill a Mockingbird,harper lee,langue originale : anglais,titre original : to kill a mockingbird
+10,Harry Potter à l'école des sorciers,j.k. rowling,langue originale : anglais,titre original : harry potter and the sorcerer's stone
+11,Le Hobbit,j.r.r. tolkien,langue originale : anglais,titre original : the hobbit
+12,Le Guépard,giuseppe tomasi di lampedusa,langue originale : italien,titre original : il gattopardo
+13,L'Écume des jours,boris vian,,titre original : l'écume des jours
+14,La Peste,albert camus,,titre original : la peste
+15,L'Assommoir,émile zola,,titre original : l'assommoir
+16,Le Comte de Monte-Cristo,alexandre dumas,,titre original : le comte de monte-cristo
+17,Cent ans de solitude,gabriel garcía márquez,langue originale : espagnol,titre original : cien años de soledad
+18,La Ferme des animaux,george orwell,langue originale : anglais,titre original : animal farm
+19,Le Vieil Homme et la Mer,ernest hemingway,langue originale : anglais,titre original : the old man and the sea
+20,Les Aventures de Sherlock Holmes,arthur conan doyle,langue originale : anglais,titre original : the adventures of sherlock holmes
+21,Le Parfum,patrick süskind,langue originale : allemand,titre original : das parfum
+22,Le Rouge et le Noir,stendhal,,titre original : le rouge et le noir
+23,Don Quichotte,miguel de cervantes,langue originale : espagnol,titre original : don quijote
+24,Les Trois Mousquetaires,alexandre dumas,,titre original : les trois mousquetaires
+25,L'Éducation sentimentale,gustave flaubert,,titre original : l'éducation sentimentale
+26,L'Odyssée,homère,langue originale : grec ancien,titre original : ὀδύσσεια (odússeia)
+27,L'Iliade,homère,langue originale : grec ancien,titre original : ἰλιάς (iliás)
+28,Les Fourmis,bernard werber,,titre original : les fourmis
+29,Le Cycle de Dune,frank herbert,langue originale : anglais,titre original : dune
+30,La Guerre des mondes,h.g. wells,langue originale : anglais,titre original : the war of the worlds
+31,Fondation,isaac asimov,langue originale : anglais,titre original : foundation
+32,Le Cycle de la Terre,ursula k. le guin,langue originale : anglais,titre original : earthsea
+33,Le Cycle de Mars,edgar rice burroughs,langue originale : anglais,titre original : barsoom series
+34,La Nuit des temps,rené barjavel,,titre original : la nuit des temps
+35,Le Cycle de l'Élévation,david brin,langue originale : anglais,titre original : uplift universe
+36,Le Cycle de l'Union,stephen r. donaldson,langue originale : anglais,titre original : the gap cycle
+37,Le Cycle des Princes d'Ambre,roger zelazny,langue originale : anglais,titre original : the chronicles of amber
+38,Les Chroniques de Krondor,raymond e. feist,langue originale : anglais,titre original : riftwar cycle
+39,Le Cycle de Drenaï,david gemmell,langue originale : anglais,titre original : drenai saga
+40,La Roue du temps,robert jordan (et brandon sanderson),langue originale : anglais,titre original : the wheel of time
+41,Le Trône de fer,george r.r. martin,langue originale : anglais,titre original : a song of ice and fire
+42,L'Assassin royal,robin hobb,langue originale : anglais,titre original : the farseer trilogy
+43,La Quête d'Ewilan,pierre bottero,,titre original : la quête d'ewilan
+44,Le Cycle de Pendragon,stephen r. lawhead,langue originale : anglais,titre original : the pendragon cycle
+45,Les Annales du Disque-Monde,terry pratchett,langue originale : anglais,titre original : discworld
+46,Le Cycle des Dieux,bernard werber,,titre original : les dieux ont soif
+47,La Trilogie de Bartiméus,jonathan stroud,langue originale : anglais,titre original : bartimaeus sequence
+48,La Trilogie du Magicien noir,trudi canavan,langue originale : anglais,titre original : the black magician trilogy
+49,La Trilogie de l'Empire,raymond e. feist et janny wurts,langue originale : anglais,titre original : the empire trilogy
+50,Le Cycle de l'Épée de Vérité,terry goodkind,langue originale : anglais,titre original : sword of truth
+51,Le Trésor de l'Île Mystérieuse,,,
+52,Le Cycle de Déméter,margaret atwood,langue originale : anglais,titre original : the demeter cycle
+53,La Trilogie de la Nuit,serge brussolo,,titre original : la trilogie de la nuit
+54,La Trilogie de la Lune,ian mcdonald,langue originale : anglais,titre original : luna trilogy
+55,Le Cycle du Dieu déchu,james clemens,langue originale : anglais,titre original : the banned and the banished
+56,La Trilogie des Joyaux,david eddings,langue originale : anglais,titre original : the elenium
+57,La Trilogie du Magicien,raymond e. feist,langue originale : anglais,titre original : riftwar saga
+58,La Trilogie des Joyaux noirs,anne bishop,langue originale : anglais,titre original : the black jewels trilogy
+59,La Trilogie de la Belgariade,david eddings,langue originale : anglais,titre original : the belgariad
+60,Le Cycle de Pern,anne mccaffrey,langue originale : anglais,titre original : dragonriders of pern
+61,La Trilogie du Dernier Souffle,fiona mcintosh,langue originale : anglais,titre original : the quickening trilogy
+62,La Trilogie de la Guerre des Serpents,raymond e. feist,langue originale : anglais,titre original : the serpentwar saga
+63,Le Cycle de la Porte des Étoiles,philip josé farmer,langue originale : anglais,titre original : the world of tiers
+64,La Trilogie des Dieux,philip josé farmer,langue originale : anglais,titre original : world of tiers
+65,La Trilogie de l'Assassin royal,robin hobb,langue originale : anglais,titre original : the farseer trilogy
+66,Le Cycle de Shannara,terry brooks,langue originale : anglais,titre original : shannara series
+67,La Trilogie de la Nuit des temps,rené barjavel,,titre original : la nuit des temps
+68,La Trilogie du Codex Aléra,jim butcher,langue originale : anglais,titre original : codex alera
+69,La Trilogie du Secret de Ji,pierre grimbert,,titre original : la trilogie du secret de ji
+70,La Trilogie de la Dague noire,j.r. ward,langue originale : anglais,titre original : black dagger brotherhood
+71,Le Cycle des Épées,fred saberhagen,langue originale : anglais,titre original : the books of swords
+72,Le Cycle de l'Épée de Vérité,terry goodkind,langue originale : anglais,titre original : sword of truth
+73,Le Cycle de Drenaï,david gemmell,langue originale : anglais,titre original : drenai saga
+74,La Trilogie de l'Empire,raymond e. feist et janny wurts,langue originale : anglais,titre original : the empire trilogy
+75,La Trilogie des Elfes,jean-louis fetjaine,,titre original : la trilogie des elfes
+76,Le Cycle de l'Âge de la Mort,margaret weis et tracy hickman,langue originale : anglais,titre original : the death gate cycle
+77,Le Cycle des Princes d'Ambre,roger zelazny,langue originale : anglais,titre original : the chronicles of amber
+78,La Trilogie de l'Éveil,pauline alphen,,titre original : la trilogie de l'éveil
+79,La Trilogie de la Terre mourante,jack vance,langue originale : anglais,titre original : dying earth
+80,La Trilogie des Chroniques des Dieux,bernard werber,,titre original : la trilogie des dieux
+81,Le Cycle des Immortels,albert robida,,titre original : le cycle des immortels
+82,Le Cycle de la Terre mourante,c.l. moore et henry kuttner,langue originale : anglais,titre original : the dying earth
+83,La Trilogie du Dernier Souffle,fiona mcintosh,langue originale : anglais,titre original : the quickening trilogy
+84,La Trilogie de la Belgariade,david eddings,langue originale : anglais,titre original : the belgariad
+85,Le Cycle de Pern,anne mccaffrey,langue originale : anglais,titre original : dragonriders of pern
+86,Le Cycle du Dieu déchu,james clemens,langue originale : anglais,titre original : the banned and the banished
+87,La Trilogie des Joyaux,david eddings,langue originale : anglais,titre original : the elenium
+88,La Trilogie du Magicien,raymond e. feist,langue originale : anglais,titre original : riftwar saga
+89,La Trilogie de la Nuit,serge brussolo,,titre original : la trilogie de la nuit
+90,La Trilogie de la Lune,ian mcdonald,langue originale : anglais,titre original : luna trilogy
+91,La Trilogie des Joyaux noirs,anne bishop,langue originale : anglais,titre original : the black jewels trilogy
+92,La Trilogie des Chroniques des Dieux,bernard werber,,titre original : la trilogie des dieux
+93,Le Cycle des Immortels,albert robida,,titre original : le cycle des immortels
+94,La Trilogie du Codex Aléra,jim butcher,langue originale : anglais,titre original : codex alera
+95,La Trilogie du Secret de Ji,pierre grimbert,,titre original : la trilogie du secret de ji
+96,La Trilogie de la Dague noire,j.r. ward,langue originale : anglais,titre original : black dagger brotherhood
+97,Le Cycle des Épées,fred saberhagen,langue originale : anglais,titre original : the books of swords
+98,Le Cycle de l'Âge de la Mort,margaret weis et tracy hickman,langue originale : anglais,titre original : the death gate cycle
+99,Le Cycle de Shannara,terry brooks,langue originale : anglais,titre original : shannara series
+100,La Trilogie de la Nuit des temps,rené barjavel,,titre original : la nuit des temps
