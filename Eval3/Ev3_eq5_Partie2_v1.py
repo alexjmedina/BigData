@@ -13,9 +13,7 @@ class NettoyerLesDonnees(MRJob):
                    reducer=self.reducer_get_results)       ]
 
     def mapper_get_mots(self, _, line):
-
         colonnes = line.split(',')
-
        
         livre_title = colonnes[1]
         auteur = colonnes[2]
@@ -39,11 +37,7 @@ class NettoyerLesDonnees(MRJob):
         arr_auteur = auteur.replace(" et ","#")
 
         # for aut in arr_autor:
-        #     
-        
         yield 1, [ map_title, arr_auteur]
-
-
 
     def reducer_get_results(self, _, books):
         book_id = 1
