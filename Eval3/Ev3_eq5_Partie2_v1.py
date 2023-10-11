@@ -25,18 +25,16 @@ class NettoyerLesDonnees(MRJob):
         if langue_original != "":
             var1 = langue_original.split(" : ")
             var2 = title_original.split(": ")
-            # var1[0] = "lange origonal"
-            # var1[1] = "anglais/espanol/italien.. .. ."
             nom_an = var1[1]+":"+var2[1]
             if nom_an != "":
                 nom_an = "#" + nom_an
 
         map_title = "Français:" + nom_fr + nom_an 
 
-        #autor en array : convert in array
+        #auteur en array : convert in array
         arr_auteur = auteur.replace(" et ","#")
 
-        # for aut in arr_autor:
+        # for auteur in arr_auteur:
         yield 1, [ map_title, arr_auteur]
 
     def reducer_get_results(self, _, books):

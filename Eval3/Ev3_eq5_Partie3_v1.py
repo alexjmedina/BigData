@@ -3,7 +3,6 @@ from mrjob.job import MRJob
 from mrjob.step import MRStep
 from mrjob.protocol import BytesValueProtocol
 
-
 class NettoyerLesDonnees(MRJob):
     OUTPUT_PROTOCOL = BytesValueProtocol
     
@@ -13,35 +12,24 @@ class NettoyerLesDonnees(MRJob):
                    reducer=self.reducer_get_results)       ]
 
     def mapper_get_mots(self, _, line):
-
         colonnes = line.split(',')
-
        
         livre_title = colonnes[1]
         auteur = colonnes[2]
         langue_original = colonnes[3]
         title_original = colonnes[4]
-        
   
         titre_orig="" 
 
         if langue_original != "":
             var1 = langue_original.split(" : ")
             var2 = title_original.split(": ")
-            # var1[0] = "lange origonal"
-            # var1[1] = "anglais/espanol/italien.. .. ."
             titre_orig = var1[1]+"#"+var2[1]
-
-        
 
         #autor en array : convert in array
         arr_auteur = auteur.replace(" et ","#")
-
-           
         
         yield 1, [ livre_title, arr_auteur,titre_orig]
-
-
 
     def reducer_get_results(self, _, books):
         book_id = 1
