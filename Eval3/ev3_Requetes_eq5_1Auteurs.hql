@@ -1,0 +1,1 @@
+select nolivre, languetitre, size(nomauteur), nomauteur from livresev3eq5 where size(nomauteur) = "2"
