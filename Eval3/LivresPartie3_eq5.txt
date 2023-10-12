@@ -1,0 +1,100 @@
+1,Le Secret du Vieux Moulin,,
+2,Le Mystère de la Chambre Jaune,Gaston Leroux,
+3,L'Étranger,Albert Camus,
+4,1984,George Orwell,Anglais#1984
+5,Le Petit Prince,Antoine de Saint-Exupéry,
+6,Le Seigneur des Anneaux,J.R.R. Tolkien,Anglais#The Lord of the Rings
+7,Les Misérables,Victor Hugo,
+8,Pride and Prejudice,Jane Austen,Anglais#Pride and Prejudice
+9,To Kill a Mockingbird,Harper Lee,Anglais#To Kill a Mockingbird
+10,Harry Potter à l'école des sorciers,J.K. Rowling,Anglais#Harry Potter and the Sorcerer's Stone
+11,Le Hobbit,J.R.R. Tolkien,Anglais#The Hobbit
+12,Le Guépard,Giuseppe Tomasi di Lampedusa,Italien#Il Gattopardo
+13,L'Écume des jours,Boris Vian,
+14,La Peste,Albert Camus,
+15,L'Assommoir,Émile Zola,
+16,Le Comte de Monte-Cristo,Alexandre Dumas,
+17,Cent ans de solitude,Gabriel García Márquez,Espagnol#Cien años de soledad
+18,La Ferme des animaux,George Orwell,Anglais#Animal Farm
+19,Le Vieil Homme et la Mer,Ernest Hemingway,Anglais#The Old Man and the Sea
+20,Les Aventures de Sherlock Holmes,Arthur Conan Doyle,Anglais#The Adventures of Sherlock Holmes
+21,Le Parfum,Patrick Süskind,Allemand#Das Parfum
+22,Le Rouge et le Noir,Stendhal,
+23,Don Quichotte,Miguel de Cervantes,Espagnol#Don Quijote
+24,Les Trois Mousquetaires,Alexandre Dumas,
+25,L'Éducation sentimentale,Gustave Flaubert,
+26,L'Odyssée,Homère,Grec ancien#Ὀδύσσεια (Odússeia)
+27,L'Iliade,Homère,Grec ancien#Ἰλιάς (Iliás)
+28,Les Fourmis,Bernard Werber,
+29,Le Cycle de Dune,Frank Herbert,Anglais#Dune
+30,La Guerre des mondes,H.G. Wells,Anglais#The War of the Worlds
+31,Fondation,Isaac Asimov,Anglais#Foundation
+32,Le Cycle de la Terre,Ursula K. Le Guin,Anglais#Earthsea
+33,Le Cycle de Mars,Edgar Rice Burroughs,Anglais#Barsoom Series
+34,La Nuit des temps,René Barjavel,
+35,Le Cycle de l'Élévation,David Brin,Anglais#Uplift Universe
+36,Le Cycle de l'Union,Stephen R. Donaldson,Anglais#The Gap Cycle
+37,Le Cycle des Princes d'Ambre,Roger Zelazny,Anglais#The Chronicles of Amber
+38,Les Chroniques de Krondor,Raymond E. Feist,Anglais#Riftwar Cycle
+39,Le Cycle de Drenaï,David Gemmell,Anglais#Drenai Saga
+40,La Roue du temps,Robert Jordan (et Brandon Sanderson),Anglais#The Wheel of Time
+41,Le Trône de fer,George R.R. Martin,Anglais#A Song of Ice and Fire
+42,L'Assassin royal,Robin Hobb,Anglais#The Farseer Trilogy
+43,La Quête d'Ewilan,Pierre Bottero,
+44,Le Cycle de Pendragon,Stephen R. Lawhead,Anglais#The Pendragon Cycle
+45,Les Annales du Disque-Monde,Terry Pratchett,Anglais#Discworld
+46,Le Cycle des Dieux,Bernard Werber,
+47,La Trilogie de Bartiméus,Jonathan Stroud,Anglais#Bartimaeus Sequence
+48,La Trilogie du Magicien noir,Trudi Canavan,Anglais#The Black Magician Trilogy
+49,La Trilogie de l'Empire,Raymond E. Feist#Janny Wurts,Anglais#The Empire Trilogy
+50,Le Cycle de l'Épée de Vérité,Terry Goodkind,Anglais#Sword of Truth
+51,Le Trésor de l'Île Mystérieuse,,
+52,Le Cycle de Déméter,Margaret Atwood,Anglais#The Demeter Cycle
+53,La Trilogie de la Nuit,Serge Brussolo,
+54,La Trilogie de la Lune,Ian McDonald,Anglais#Luna Trilogy
+55,Le Cycle du Dieu déchu,James Clemens,Anglais#The Banned and the Banished
+56,La Trilogie des Joyaux,David Eddings,Anglais#The Elenium
+57,La Trilogie du Magicien,Raymond E. Feist,Anglais#Riftwar Saga
+58,La Trilogie des Joyaux noirs,Anne Bishop,Anglais#The Black Jewels Trilogy
+59,La Trilogie de la Belgariade,David Eddings,Anglais#The Belgariad
+60,Le Cycle de Pern,Anne McCaffrey,Anglais#Dragonriders of Pern
+61,La Trilogie du Dernier Souffle,Fiona McIntosh,Anglais#The Quickening Trilogy
+62,La Trilogie de la Guerre des Serpents,Raymond E. Feist,Anglais#The Serpentwar Saga
+63,Le Cycle de la Porte des Étoiles,Philip José Farmer,Anglais#The World of Tiers
+64,La Trilogie des Dieux,Philip José Farmer,Anglais#World of Tiers
+65,La Trilogie de l'Assassin royal,Robin Hobb,Anglais#The Farseer Trilogy
+66,Le Cycle de Shannara,Terry Brooks,Anglais#Shannara Series
+67,La Trilogie de la Nuit des temps,René Barjavel,
+68,La Trilogie du Codex Aléra,Jim Butcher,Anglais#Codex Alera
+69,La Trilogie du Secret de Ji,Pierre Grimbert,
+70,La Trilogie de la Dague noire,J.R. Ward,Anglais#Black Dagger Brotherhood
+71,Le Cycle des Épées,Fred Saberhagen,Anglais#The Books of Swords
+72,Le Cycle de l'Épée de Vérité,Terry Goodkind,Anglais#Sword of Truth
+73,Le Cycle de Drenaï,David Gemmell,Anglais#Drenai Saga
+74,La Trilogie de l'Empire,Raymond E. Feist#Janny Wurts,Anglais#The Empire Trilogy
+75,La Trilogie des Elfes,Jean-Louis Fetjaine,
+76,Le Cycle de l'Âge de la Mort,Margaret Weis#Tracy Hickman,Anglais#The Death Gate Cycle
+77,Le Cycle des Princes d'Ambre,Roger Zelazny,Anglais#The Chronicles of Amber
+78,La Trilogie de l'Éveil,Pauline Alphen,
+79,La Trilogie de la Terre mourante,Jack Vance,Anglais#Dying Earth
+80,La Trilogie des Chroniques des Dieux,Bernard Werber,
+81,Le Cycle des Immortels,Albert Robida,
+82,Le Cycle de la Terre mourante,C.L. Moore#Henry Kuttner,Anglais#The Dying Earth
+83,La Trilogie du Dernier Souffle,Fiona McIntosh,Anglais#The Quickening Trilogy
+84,La Trilogie de la Belgariade,David Eddings,Anglais#The Belgariad
+85,Le Cycle de Pern,Anne McCaffrey,Anglais#Dragonriders of Pern
+86,Le Cycle du Dieu déchu,James Clemens,Anglais#The Banned and the Banished
+87,La Trilogie des Joyaux,David Eddings,Anglais#The Elenium
+88,La Trilogie du Magicien,Raymond E. Feist,Anglais#Riftwar Saga
+89,La Trilogie de la Nuit,Serge Brussolo,
+90,La Trilogie de la Lune,Ian McDonald,Anglais#Luna Trilogy
+91,La Trilogie des Joyaux noirs,Anne Bishop,Anglais#The Black Jewels Trilogy
+92,La Trilogie des Chroniques des Dieux,Bernard Werber,
+93,Le Cycle des Immortels,Albert Robida,
+94,La Trilogie du Codex Aléra,Jim Butcher,Anglais#Codex Alera
+95,La Trilogie du Secret de Ji,Pierre Grimbert,
+96,La Trilogie de la Dague noire,J.R. Ward,Anglais#Black Dagger Brotherhood
+97,Le Cycle des Épées,Fred Saberhagen,Anglais#The Books of Swords
+98,Le Cycle de l'Âge de la Mort,Margaret Weis#Tracy Hickman,Anglais#The Death Gate Cycle
+99,Le Cycle de Shannara,Terry Brooks,Anglais#Shannara Series
+100,La Trilogie de la Nuit des temps,René Barjavel,
