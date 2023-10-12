@@ -39,7 +39,7 @@ class TransformerLesDonnees(MRJob):
 
     def reducer_get_results(self, _, books):
         book_id = 1
-        with open("C:/Users/Utilisateur/Documents/GitHub/BigData/Eval3/LivresPartie2_eq5.txt",'w',encoding="utf-8") as f:
+        with open("C:/Users/6227565/Documents/GitHub/BigData/Eval3/LivresPartie2_eq5.txt",'w',encoding="utf-8") as f:
             for book in books:
                 yield _, bytes( f"{book_id},{','.join(book)}",  'utf-8')
                 f.write(f"{book_id},{','.join(book)}")
