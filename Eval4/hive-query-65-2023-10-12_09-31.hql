@@ -1,0 +1,1 @@
+select distinct gravite from Ev4_AMedina_Collisions1;

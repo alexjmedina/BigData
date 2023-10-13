@@ -1,4 +1,3 @@
-cd_genre_accdn,Description
 31,Collision avec véhicule routier
 32,Collision avec piéton
 33,Collision avec cycliste

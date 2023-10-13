@@ -1,0 +1,1 @@
+select No_seq_coll , dt_accdn, rue_accdn, accdn_pres_de, cd_genre_accdn, nb_blesses_graves, nb_blesses_legers, count(gravite) from Ev4_AMedina_Collisions1 where gravite="Mortel";

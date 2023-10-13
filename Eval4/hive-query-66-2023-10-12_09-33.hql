@@ -1,0 +1,1 @@
+select * from Ev4_AMedina_Collisions1 where gravite="Mortel";
